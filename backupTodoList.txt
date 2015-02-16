@@ -18,8 +18,11 @@ Check Social media at about 8 pm.
 
 
 
-0. Best's dorm													// monday in the mourning.
-1. Ubon bye'nior												// tuesday
+0. mom's dorm													// tuesday
+1. Ubon bye'nior												// tuesday 19.00
 2. Probs's payment												// tuesday
-3. Learn PIC													// wednsday
+3. make the presentation										// tuesday
+4. Learn PIC													// wednsday
+5. Reinstall Arch linux											// wednsday
+6. Install CentOS												// thursday
 5. Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
