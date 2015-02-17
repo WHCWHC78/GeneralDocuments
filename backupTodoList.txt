@@ -18,9 +18,11 @@ Check Social media at about 8 pm.
 
 
 
-2. Probs's payment												// tuesday
-3. VHDL															// wednsday
-4. Learn PIC													// wednsday
-5. Reinstall Arch linux											// wednsday
-6. Install CentOS												// thursday
-5. Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
+1. Probs's payment												// tuesday
+2. VHDL															// wednsday
+3. Learn PIC													// thursday
+4. Reinstall Arch linux											// saturday
+5. Install CentOS												// sunday
+
+
+----. Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
