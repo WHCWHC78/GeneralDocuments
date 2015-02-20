@@ -18,11 +18,13 @@ Check Social media at about 8 pm.
 
 
 
-1. Probs's payment												// tuesday
-2. VHDL															// wednsday
-3. Learn PIC													// thursday
-4. Reinstall Arch linux											// saturday
-5. Install CentOS												// sunday
+1. Bomb															// saturday
+2. VHDL															// saturday
+3. VHDL															// sunday
+4. Noi uncle													// sunday
 
 
-----. Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
+----- Learn PIC														// ?????? 
+----- Reinstall Arch linux											// ??????
+----- Install CentOS												// ??????
+----- Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
