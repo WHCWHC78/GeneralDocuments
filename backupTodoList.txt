@@ -20,10 +20,10 @@ Check Social media at about 8 pm.
 1. Advanced Digital Assignment			// thursday
 2. Computer Interfacing Assignment		// friday
 3. Nakornchai							// today
-4. ESL's meeting						// today
-5. E2Pixel								// today
+4. ESL's meeting						// thursday
 
------ Learn PIC														// ?????? 
+
+
 ----- Reinstall Arch linux											// ??????
------ Install CentOS												// ??????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
+----- ประเมินอาจารย์													// 4 april - 26 april
