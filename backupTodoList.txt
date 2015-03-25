@@ -17,12 +17,11 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-
-1. Bomb															// saturday
-2. VHDL															// saturday
-3. VHDL															// sunday
-4. Noi uncle													// sunday
-
+1. Advanced Digital Assignment			// thursday
+2. Computer Interfacing Assignment		// friday
+3. Nakornchai							// today
+4. ESL's meeting						// today
+5. E2Pixel								// today
 
 ----- Learn PIC														// ?????? 
 ----- Reinstall Arch linux											// ??????
