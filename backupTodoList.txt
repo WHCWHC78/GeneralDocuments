@@ -17,10 +17,11 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-1. Advanced Digital Assignment			// thursday
-2. Computer Interfacing Assignment		// friday
-3. Nakornchai							// today
-4. ESL's meeting						// thursday
+1. FPGA as a keyboard						// saturday
+2. ESP2866-01's communication				// sunday
+3. wash the clothes & socks					// sunday
+4. E2Pixels									// sunday
+4. Ticket									// sunday or monday
 
 
 
