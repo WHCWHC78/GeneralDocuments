@@ -17,11 +17,11 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-1. FPGA as a keyboard						// saturday
-2. ESP2866-01's communication				// sunday
-3. wash the clothes & socks					// sunday
-4. E2Pixels									// sunday
-4. Ticket									// sunday or monday
+1. FPGA as a keyboard						// monday
+2. ESP2866-01's communication				// monday
+3. Bomb										// monday
+4. wash the clothes & socks					// sunday
+5. E2Pixels' color							// monday
 
 
 
