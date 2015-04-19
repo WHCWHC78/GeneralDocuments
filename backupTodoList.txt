@@ -2,6 +2,9 @@ At most 2 hours of relax a day.
 House work will be done on saturday.
 My lazy day is sunday (?).
 Backup day is sunday too.
+Before bath-time,
+	- clear my pocket.
+	- charge electronic devices.
 Before the bedtime,
 	- have a look at the study table.
 	- update this TodoList.	
@@ -17,15 +20,19 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-1. CESC Network's new context				// monday
-3. FPGA as a keyboard						// tuesday
-4. wash the socks							// sunday
+0. Reinstall Arch Linux							// as soon as possible
+1. Computer Interfacing Assignment				// monday
+2. Network Assignment							// tuesday
+3. CESC Network's recreation details			// tuesday
+4. Computer Organization Assignment				// wednsday
+5. Fix the CRC board							// thursday
+6. Digital Theory Assignment					// friday
+7. Digital Laboratory Assignment				// ??????
 
-6. solder the board							// monday
+
 
 
 
 ----- The project legacy (ESL)										// ??????
------ Reinstall Arch linux											// ??????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
 ----- ประเมินอาจารย์													// 4 april - 26 april
