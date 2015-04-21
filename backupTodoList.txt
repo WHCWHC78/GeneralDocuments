@@ -21,6 +21,7 @@ Check Social media at about 8 pm.
 
 
 0. Reinstall Arch Linux							// ?????? >>> as soon as possible
+. Tolk to Prf.Watchara about ThaiEasyElec		// wednsday @ mourning
 1. Computer Organization Assignment				// wednsday
 2. CESC Network's recreation details			// wednsday
 3. Network Assignment							// thursday
