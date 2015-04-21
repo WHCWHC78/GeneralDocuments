@@ -20,14 +20,15 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-0. Reinstall Arch Linux							// as soon as possible
-1. Computer Interfacing Assignment				// monday
-2. Network Assignment							// tuesday
-3. CESC Network's recreation details			// tuesday
-4. Computer Organization Assignment				// wednsday
-5. Fix the CRC board							// thursday
-6. Digital Theory Assignment					// friday
-7. Digital Laboratory Assignment				// ??????
+0. Reinstall Arch Linux							// ?????? >>> as soon as possible
+1. Computer Organization Assignment				// wednsday
+2. CESC Network's recreation details			// wednsday
+3. Network Assignment							// thursday
+4. Fix the CRC board							// thursday
+5. PR ThaiEasyElec								// friday
+6. Computer Interfacing Assignment				// friday
+7. Digital Theory Assignment					// saturday
+8. Digital Laboratory Assignment				// ?????? >>> ask Lookpong
 
 
 
@@ -35,4 +36,3 @@ Check Social media at about 8 pm.
 
 ----- The project legacy (ESL)										// ??????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
------ ประเมินอาจารย์													// 4 april - 26 april
