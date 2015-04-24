@@ -21,15 +21,12 @@ Check Social media at about 8 pm.
 
 
 0. Reinstall Arch Linux							// ?????? >>> as soon as possible
-. Tolk to Prf.Watchara about ThaiEasyElec		// wednsday @ mourning
-1. Computer Organization Assignment				// wednsday
-2. CESC Network's recreation details			// wednsday
-3. Network Assignment							// thursday
-4. Fix the CRC board							// thursday
-5. PR ThaiEasyElec								// friday
-6. Computer Interfacing Assignment				// friday
-7. Digital Theory Assignment					// saturday
-8. Digital Laboratory Assignment				// ?????? >>> ask Lookpong
+1. PR ThaiEasyElec								// friday
+2. Computer Interfacing Assignment				// friday
+3. Network Assignment							// saturday
+4. Fix the CRC board							// sunday
+5. Digital Theory Assignment					// sunday
+6. Digital Laboratory Assignment				// ?????? >>> ask Lookpong
 
 
 
