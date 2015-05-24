@@ -1,12 +1,14 @@
 
 
+Don't forget to add yourself to the uucp and lock groups: gpasswd -a <user> uucp && gpasswd -a <user> lock (execute as root)
+
 ********** Strict to the plan !!!!! **********
 
 At most 2 hours of relax a day.
 House work will be done on saturday.
 My lazy day is sunday (?).
 Backup day is sunday too.
-Before bath-time,
+Before bathtime,
 	- clear my pocket.
 	- charge electronic devices.
 Before the bedtime,
@@ -24,10 +26,12 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-1. PixelBrite						// monday
-2. OSI slide for teaching				// sunday
-3. Exam							// monday
-4. OSI the game's rules					// sunday
+
+1. OSI slide for teaching				// sunday
+2. OSI the game's rules					// sunday
+3. PixelBrite						// monday
+4. Exam							// monday
+5. Summer register					// tuesday
 
 
 ----- The project legacy (ESL)						// ??????
