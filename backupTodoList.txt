@@ -1,7 +1,5 @@
 
 
-Don't forget to add yourself to the uucp and lock groups: gpasswd -a <user> uucp && gpasswd -a <user> lock (execute as root)
-
 ********** Strict to the plan !!!!! **********
 
 At most 2 hours of relax a day.
@@ -26,13 +24,13 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
+0. CV                                       -> As soon as possible
 
-1. OSI slide for teaching				// sunday
-2. OSI the game's rules					// sunday
-3. PixelBrite						// monday
-4. Exam							// monday
-5. Summer register					// tuesday
+1. Deposit the money                        -> Friday
+2. Enroll the TOEIC class                   -> Friday
+3. Learn git                                -> Saturday
+4. Collect projects' names                  -> Sunday
+5. TOC assignment(practice and 1st asgmnt)  -> Sunday
 
-
------ The project legacy (ESL)						// ??????
------ Ubon's web -> Have a look at the Ubon's reg instruction		// ??????
+----- The project legacy (ESL)						                // ?????
+----- Ubon's web -> Have a look at the Ubon's reg instruction		// ?????
