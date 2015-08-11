@@ -26,14 +26,13 @@ Check Social media at about 8 pm.
 
 0. CV                                       -> As soon as possible
 
-1. TOC assignment(practice and 1st asgmnt)  -> Tuesday
-2. OOAD group                               -> Tuesday
-3. Thailand Startup Smartcamp               -> Tuesday
-4. Collect projects' names                  -> Tuesday
-5. Deposit the money                        -> Tuesday
-6. Learn git                                -> Wednsday
-7. ESL meeting                              -> Thursday
-8. TOEIC test                               -> Monday 17th Aug
+1. TOC assignment(practice and 1st asgmnt)  -> Wednsday
+2. Collect projects' names                  -> Wednsday
+3. Learn git                                -> Wednsday
+4. Thailand Startup Smartcamp               -> Thursday
+5. ESL meeting                              -> Thursday @ 19.30
+6. Deposit the money                        -> Monday 17th Aug
+7. TOEIC test                               -> Monday 17th Aug
 
 ----- The project legacy (ESL)						                // ?????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ?????
