@@ -23,19 +23,19 @@ Check Social media at about 8 pm.
 	- www.ce.kmitl.ac.th
 	- www.reg.kmitl.ac.th
 
+0. Snooker's laptop                                     -> Sunday
 
-0. CV                                                   -> As soon as possible
-
-1. IntelliJ tutorial (for OOAD)                         -> Thursday
-2. Thailand Startup Smartcamp                           -> Thursday
-3. ESL meeting                                          -> Thursday @ 19.30
-4. Collect projects' names                              -> Friday
-5. TOC assignment(practice and assignment report)       -> Friday
-6. Learn git, C++, and makefile                         -> Saturday
-7. GridWiz's firs meeting                               -> Saturday
-8. Prepare for TOEIC test                               -> Sunday
-9. Deposit the money                                    -> Monday 17th Aug
-10. TOEIC test                                          -> Monday 17th Aug
+1. Collect projects' names                              -> Friday
+2. TOC assignment(practice and assignment report)       -> Friday
+3. Learn git, C++, and makefile                         -> Saturday
+4. GridWiz's firs meeting                               -> Saturday
+5. Prepare for TOEIC test                               -> Sunday
+6. Deposit the money                                    -> Monday
+7. TOEIC test                                           -> Monday
+8. OOA/D assignment                                     -> Monday
+9. Larman: Chapter 4-12                                 -> Tuesday
+10. Deal a new project                                  -> Wednsday
+11. CV                                                  -> Wednsday
 
 ----- The project legacy (ESL)						                // ?????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ?????
