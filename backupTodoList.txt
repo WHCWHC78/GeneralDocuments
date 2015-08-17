@@ -23,18 +23,17 @@ Check Social media at about 8 pm.
 	- www.ce.kmitl.ac.th
 	- www.reg.kmitl.ac.th
 
-0. Snooker's laptop                                     -> Sunday
 
-1. Prepare for TOEIC test                               -> Sunday
-2. Set environment for GridWhiz (C++, and makefile)     -> Sunday
-3. TOC assignment(practice and assignment report)       -> Monday
-4. Deal a new project                                   -> Monday
-5. Deposit the money                                    -> Monday
-6. OOA/D assignment (Learn git)                         -> Monday
-7. TOEIC test                                           -> Tuesday @ 16.30
-8. Larman: Chapter 4-12                                 -> Tuesday
-9. CV                                                   -> Wednsday
-10. RESTful API and CORS                                -> Wednsday
+1. Prepare for TOEIC test                               -> Monday
+2. TOC assignment(practice and assignment report)       -> Monday
+3. OOA/D assignment (Learn git)                         -> Monday
+4. TOEIC test                                           -> Tuesday @ 16.30
+5. Larman: Chapter 4-12                                 -> Tuesday
+6. Set environment for GridWhiz (C++, and makefile)     -> Tuesday
+7. CV                                                   -> Wednsday
+8. RESTful API and CORS                                 -> Wednsday
+9. Smart Class Room Project                             -> Thursday
+10. Deposit the money                                   -> Monday 24th Aug
 
 ----- The project legacy (ESL)						                // ?????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ?????
