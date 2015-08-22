@@ -24,14 +24,11 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-1. OOA/D new project                                    -> Thursday
-2. Larman: Chapter 4-12                                 -> Thursday
-3. TOC assignment(practice and assignment report)       -> Thursday
-5. Ubon's meeting                                       -> Thursday
-6. CV                                                   -> Friday
-7. GridWhiz                                             -> Friday
-8. ESP8266                                              -> Saturday
-9. Deposit the money                                    -> Monday 24th Aug
+1. Larman: Chapter 4-12                                 -> Saturday
+2. GridWhiz (About the error)                           -> Saturday
+3. Make a decision on ESP8266                           -> Sunday
+3. Deposit the money                                    -> Monday 24th Aug
+4. TOC assignment                                       -> Thursday 28th Aug
 
 ----- The project legacy (ESL)						                // ?????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ?????
