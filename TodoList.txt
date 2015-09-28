@@ -24,11 +24,12 @@ Check Social media at about 8 pm.
 	- www.reg.kmitl.ac.th
 
 
-1. Larman: Chapter 4-12                                 -> Saturday
-2. GridWhiz (About the error)                           -> Saturday
-3. Make a decision on ESP8266                           -> Sunday
-3. Deposit the money                                    -> Monday 24th Aug
-4. TOC assignment                                       -> Thursday 28th Aug
+1. Analysis and Design CmyClound                -> Monday
+2. GridWhiz                                     -> Monday
+3. Send name list ComNet                        -> Tuesday
+4. Lab Presentation                             -> Tuesday
+5. MiniAdmin Presentation                       -> Wednsday
+
 
 ----- The project legacy (ESL)						                // ?????
 ----- Ubon's web -> Have a look at the Ubon's reg instruction		// ?????

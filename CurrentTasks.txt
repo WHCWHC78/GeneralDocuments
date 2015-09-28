@@ -1,7 +1,12 @@
-                Tasks                   |           Due date
-                                        |
-1. GridWhiz                             |   15th Oct (53 days left)
-2. OOA/D                                |   25th Nov (94 days left)
-3. CV                                   |   23th Nov (92 days left)
-4. Studying                             |   19th Sep (27 days left)
-5. ESP8266 for Mini Maker Faire         |   26th Sep (34 days left)
+                Tasks                   
+                                        
+1. GridWhiz                             
+2. OOA/D                                
+3. CV                                   
+4. Studying                             
+5. Anto.io
+6. Theory of Computation (3rd)          
+7. Education Information Technology
+8. Computer Network
+9. MiniAdmin
+
